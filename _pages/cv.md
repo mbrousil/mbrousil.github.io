@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please contact me at matthew.brousil@gmail.com to request a full copy of my cv.
+Please contact me at **matthew.brousil@gmail.com** to request a full copy of my cv.
 
 
 Education
