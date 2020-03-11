@@ -14,9 +14,9 @@ Please contact me at **matthew.brousil@gmail.com** to request a full copy of my 
 
 Education
 ======
-* AA/AS College of DuPage, 2011
-* BA/BS The Evergreen State College, 2014
-* MS California Polytechnic State University, 2016
+* **AA/AS** College of DuPage, 2011
+* **BA/BS** The Evergreen State College, 2014
+* **MS** California Polytechnic State University, 2016
 
 Recent work experience
 ======
