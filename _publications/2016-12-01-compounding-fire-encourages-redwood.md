@@ -11,5 +11,3 @@ citation: 'Brousil, Matthew R., 2016. Compounding fire disturbance history encou
 Master's thesis describing the effects of compounding fire disturbance history on coast redwood regeneration and community dominance in Big Sur, CA.
 
 [Access thesis via Cal Poly](https://doi.org/10.15368/theses.2016.159)
-
-Recommended citation: Brousil, Matthew R., 2016. Compounding fire disturbance history encourages coast redwood (Sequoia sempervirens) regeneration and community dominance. California Polytechnic State University, San Luis Obispo. Thesis.

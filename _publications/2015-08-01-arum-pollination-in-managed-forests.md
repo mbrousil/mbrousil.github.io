@@ -11,5 +11,3 @@ citation: 'Matthew Brousil, Chris Humann, and Dylan Fischer "Plant-Pollinator In
 This study describes the factors that best predicted pollinating rove beetle abundance on Lysichiton americanus (western skunk cabbage) in a managed Northwest riparian forest.
 
 [Access paper via BioOne](https://doi.org/10.3955/046.089.0310)
-
-Recommended citation: Matthew Brousil, Chris Humann, and Dylan Fischer "Plant-Pollinator Interactions in a Northwest Arum Related to Plant Traits but not Riparian Forest Management," Northwest Science 89(3), 297-307, (1 August 2015). https://doi.org/10.3955/046.089.0310
