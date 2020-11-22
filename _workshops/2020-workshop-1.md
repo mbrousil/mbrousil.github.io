@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research Techniques with R"
 collection: workshops
-type: "R workshop - Organizer, moderator, instructor"
+type: "R workshop - Organizer, Moderator, Instructor"
 permalink: /workshops/2020-workshop-1
 venue: "Washington State University"
 date: 2020-11-16
