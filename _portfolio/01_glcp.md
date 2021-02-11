@@ -1,6 +1,6 @@
 ---
 title: "Global lake area, climate, and population dataset"
-excerpt: "A global dataset containing lake and reservoir surface area, basin-level temperature, precipitation, and population data. <br/><img src='/images/fire_basin_crop_300.png>'>"
+excerpt: "A global dataset containing lake and reservoir surface area, basin-level temperature, precipitation, and population data. <br/><img src='/images/fire_basin_crop_300.png'>"
 collection: portfolio
 ---
 
