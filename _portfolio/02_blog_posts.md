@@ -1,6 +1,6 @@
 ---
 title: "Blog posts"
-excerpt: "A collection of links to blog posts I've written for Washington State University's R Working Group."
+excerpt: "A collection of links to blog posts I've written for Washington State University's R Working Group. <br/><img src='/images/blog_thumbnail.png'>"
 collection: portfolio
 ---
 
