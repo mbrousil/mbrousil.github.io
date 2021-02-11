@@ -6,6 +6,8 @@ collection: portfolio
 
 I've written several instructional blog posts corresponding to live-coding talks that I've given at the Washington State University R Working Group. Below are links to each blog post:
 
++ [Introduction to mapping in R](https://cougrstats.wordpress.com/2021/02/10/introduction-to-mapping-in-r/) (2021-02-10)
++ [Formatting data for use with R](https://cougrstats.wordpress.com/2020/10/21/formatting-data-for-use-with-r/) (2020-10-21)
 + [An introduction to working with lists using purrr](https://cougrstats.wordpress.com/2020/02/19/an-introduction-to-working-with-lists-using-purrr/) (2020-02-19)
 + [Advanced methods with ggplot2](https://cougrstats.wordpress.com/2019/09/25/advanced-methods-with-ggplot2/) (2019-09-25)
 + [A Tour of R Markdown](https://cougrstats.wordpress.com/2019/09/12/a-tour-of-r-markdown/) (2019-09-12)
